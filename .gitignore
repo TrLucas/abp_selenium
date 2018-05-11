@@ -1,0 +1,10 @@
+# venv
+bin/
+include/
+lib/
+share/
+pip-selfcheck.json
+
+# selenium
+selenium/
+driver/
